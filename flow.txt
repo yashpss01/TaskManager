@@ -1,6 +1,9 @@
 ## FLOW of THE TASK MANAGER
-1.Displays task
-2.Add new tasks
-3.mark tasks as completed
-4.Delete tasks
+
+-->MENU
+  1.Displays task
+  2.Add new tasks
+  3.mark tasks as completed
+  4.Delete tasks
+  5.Exit
 
